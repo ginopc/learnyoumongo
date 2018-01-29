@@ -7,7 +7,7 @@ Non devi creare nessun file come soluzione di questo esercizio.
 Semplicemente esegui `learnyoumongo verify` quando hai terminato l'installazione.
 
 -----------------------------------------------------------
-## HINTS
+## SUGGERIMENTI
 
 Per verificare che `mongod` sia installato, puoi provare ad eseguire `mongod --version`.
 
